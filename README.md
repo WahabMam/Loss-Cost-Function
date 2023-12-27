@@ -5,7 +5,7 @@ examines its behavior with a small dataset, and includes an interactive contour 
 
 ## Overview
 
-- **Cost_Function_Exploration.ipynb:** This Jupyter Notebook covers the implementation and exploration of the cost function. It includes interactive plots and detailed explanations about the impact of parameter changes on the cost function.
+- **Cost_Function_soIn.ipynb:** This Jupyter Notebook covers the implementation and exploration of the cost function. It includes interactive plots and detailed explanations about the impact of parameter changes on the cost function.
 
 ## Features
 
