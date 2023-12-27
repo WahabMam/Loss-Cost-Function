@@ -5,7 +5,8 @@ examines its behavior with a small dataset, and includes an interactive contour 
 
 ## Overview
 
-- **Cost_Function_soIn.ipynb:** This Jupyter Notebook covers the implementation and exploration of the cost function. It includes interactive plots and detailed explanations about the impact of parameter changes on the cost function.
+- **Cost_Function_SoIn.ipynb:** This Jupyter Notebook covers the implementation and exploration of the cost function.
+- It includes interactive plots and detailed explanations about the impact of parameter changes on the cost function.
 
 ## Features
 
@@ -18,4 +19,7 @@ examines its behavior with a small dataset, and includes an interactive contour 
 
 1. Clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/cost-function-exploration.git
+   git clone https://github.com/WahabMam/Loss-Cost-Function
+## Note 
+This notebook is derived from the Coursera Machine Learning Specialization course by Andrew Ng. 
+You can refer to the course on Coursera for a more in-depth understanding.
